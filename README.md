@@ -38,8 +38,5 @@ HOW TO USE THE CODE:
 1. Download the dataset from the website mentioned above and store in you local drive.
 2. Open the Chance_of_Admit.ipynb  file and run it in your python console. Change the extention to .py if run in non-notebook terminal  
 3. The code performs initial Exploratory Data Analysis and then runs a Simple Feed Forward Neural Network of 100 epochs
-4. User input option is available where any user input value will be tested and admission chance is predicted for the indicidual scores.
-
-
-
+4. User input option is available where any user input value will be tested and admission chance is predicted for the individual scores
 
